@@ -1,3 +1,7 @@
+-=(Tetris_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
 -------------------------------------------------------------------------------------------
 -- 
 -- Arcade: Atari Tetris  for MiSTer by MiSTer-X
